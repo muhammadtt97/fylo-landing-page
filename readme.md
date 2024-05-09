@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/muhammadtt97/fylo-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://muhammadtt97.github.io/fylo-landing-page/)
 
 ## My process
 
